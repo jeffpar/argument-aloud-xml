@@ -2401,9 +2401,8 @@
     <text>Petition for a writ of certiorari to the United States Circuit Court of Appeals for the Second Circuit submitted by Mr. John W. Davis for the petitioners, and by Mr. Solicitor General Beck and Assistant Attorney General Willebrandt for the respondent.</text>
   </case>
   <case number="652">James C. Davis, Director General of Railroads, as Agent, etc., petitioner, v. L. N. Dantzler Lumber Company.
-    <text>Petition for a writ of certiorari to the Supreme Court of the State of Mississippi submitted by Mr. Carl Fox and Mr. R. C. Beckett for the petitioner. Adjourned until Tuesday, January 3 next, at 12 o'clock. The day call for Tuesday, January 3, 1922, will be as follows:</text>
+    <text>Petition for a writ of certiorari to the Supreme Court of the State of Mississippi submitted by Mr. Carl Fox and Mr. R. C. Beckett for the petitioner. Adjourned until Tuesday, January 3 next, at 12 o'clock. The day call for Tuesday, January 3, 1922, will be as follows: Nos. 322, 340 (and 368), 3, original, 3, 259, 16, original, 25, original, 20, 119, 295, 296, 616, and 540. Х</text>
   </case>
-  <case number="322,340">(and 368), 3, original, 3, 259, 16, original, 25, original, 20, 119, 295, 296, 616, and 540. Х</case>
 </date>
 <date value="1922-01-03" day="Tuesday, January 3, 1922" page="112">
   <case number="42">Edward R. Cunningham, plaintiff in error, v. James Linn Rodgers et al.
@@ -3397,7 +3396,10 @@
     <text>Motion to advance submitted by Mr. William Marshall Bullitt in that behalf.</text>
   </case>
   <case number="780">Western Union Telegraph Company, petitioner, v. Laura Hale, etc.
-    <text>Petition for a writ of certiorari to the United States. Circuit Court of Appeals for the Fifth Circuit submitted by Mr. Clarence R. Wilson in behalf of Mr. Joseph L. Egan, Mr. Francis Raymond Stark, and Mr. John E. Hartridge for the petitioner. No. —, original. Ex parte In the matter of Link-Belt Company, petitioner. Motion for leave to file a petition for a writ of mandamus herein submitted by Mr. Henry S. Robbins and Mr. Morris M. Townley for the petitioner. Nos. 729, 730, 731, and 732. Utah Consolidated Mining Company, petitioner, v. Utah Apex Mining Company. Petitions for writs of certiorari to the United States Circuit Court of Appeals for the Eighth Circuit submitted by Mr. George Sutherland, Mr. John P. Gray, and Mr. A. C. Ellis, jr., for the petitioner, and by Mr. J. A. Marshall and Mr. William E. Colby for the respondent.</text>
+    <text>Petition for a writ of certiorari to the United States. Circuit Court of Appeals for the Fifth Circuit submitted by Mr. Clarence R. Wilson in behalf of Mr. Joseph L. Egan, Mr. Francis Raymond Stark, and Mr. John E. Hartridge for the petitioner. No. —, original. Ex parte In the matter of Link-Belt Company, petitioner. Motion for leave to file a petition for a writ of mandamus herein submitted by Mr. Henry S. Robbins and Mr. Morris M. Townley for the petitioner.</text>
+  </case>
+  <case number="729,730,731,732">Utah Consolidated Mining Company, petitioner, v. Utah Apex Mining Company.
+    <text>Petitions for writs of certiorari to the United States Circuit Court of Appeals for the Eighth Circuit submitted by Mr. George Sutherland, Mr. John P. Gray, and Mr. A. C. Ellis, jr., for the petitioner, and by Mr. J. A. Marshall and Mr. William E. Colby for the respondent.</text>
   </case>
   <case number="743">Charles L. Craig, petitioner, v. Thomas D. McCarthy, U. S. Marshal, etc., et al.
     <text>Petition for a writ of certiorari to the United States Circuit Court of Appeals for the Second Circuit, or, in the alternative, a rule to show cause by way of mandamus, submitted by Mr. George Sutherland, Mr. John P. O'Brien, and Mr. Edmund L. Mooney for the petitioner, with leave to counsel for the respondent to file brief in opposition.</text>
@@ -3689,7 +3691,10 @@
 </date>
 <date value="1922-03-06" day="Monday, March 6, 1922" page="189">
   <case number="723">The United States of America, petitioner, v. James A. Baker, Receiver, etc.
-    <text>Petition for a writ of certiorari to the United States Circuit Court of Appeals for the Fifth Circuit denied. Nos. 729, 730, 731, and 732. Utah Consolidated Mining Company, petitioner, v. Utah Apex Mining Company. Petitions for writs of certiorari to the United States Circuit Court of Appeals for the Eighth Circuit denied.</text>
+    <text>Petition for a writ of certiorari to the United States Circuit Court of Appeals for the Fifth Circuit denied.</text>
+  </case>
+  <case number="729,730,731,732">Utah Consolidated Mining Company, petitioner, v. Utah Apex Mining Company.
+    <text>Petitions for writs of certiorari to the United States Circuit Court of Appeals for the Eighth Circuit denied.</text>
   </case>
   <case number="738">The Dayton Brass Castings Company, petitioner, v. A. C. Gilligan, U. S. Collector, etc.
     <text>Petition for a writ of certiorari to the United States Circuit Court of Appeals for the Sixth Circuit denied.</text>
@@ -5044,10 +5049,7 @@
   <case number="833">Charles D. Newton, as Attorney General, etc., et al., appellants, v. The Standard Gas Light Company of the City of New York</case>
   <case number="844">Charles D. Newton, as Attorney General, etc., et al., appellants, v. New Amsterdam Gas Company</case>
   <case number="845">Charles D. Newton, as Attorney General, etc., et al., appellants, v. The East River Gas Company of Long Island City.
-    <text>Argument commenced by Mr. Harry Hertzoff for the appellants in</text>
-  </case>
-  <case number="750,751">continued by Mr. William Schuyler Jackson for the appellants in Nos. 752 and 753; by Mr. Judson Hyatt for the appellants in Nos. 832, 833, 844, and 845; by Mr. John A. Garver for the appellees, and concluded by Mr. William L. Ransom for the appellees.
-    <text>Leave granted to file additional briefs by Wednesday next.</text>
+    <text>Argument commenced by Mr. Harry Hertzoff for the appellants in Nos. 750 and 751; continued by Mr. William Schuyler Jackson for the appellants in Nos. 752 and 753; by Mr. Judson Hyatt for the appellants in Nos. 832, 833, 844, and 845; by Mr. John A. Garver for the appellees, and concluded by Mr. William L. Ransom for the appellees. Leave granted to file additional briefs by Wednesday next.</text>
   </case>
   <case number="672">Charles Glen Collins, appellant, v. Victor Loisel, U. S. Marshal for the Eastern District of Louisiana.
     <text>Argued by Mr. Guion Miller and Mr. Edgar Allan Poe for the appellant, and by Mr. Robert H. Marr for the appellee. Adjourned until Monday next at 12 o'clock. The call of the docket has been suspended for the term. SUPREME COURT OF THE UNITED STATES..</text>

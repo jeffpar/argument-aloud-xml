@@ -568,9 +568,8 @@
   <case number="440">Harry T. Hall, superintendent of banks and banking of the State of Ohio et al, appellants, v. William R. Rose et al</case>
   <case number="386">Clarence C. Caldwell, as Attorney General, etc., et al., appellants, v. The Sioux Falls Stock Yards Company</case>
   <case number="413">Frank W. Merrick et al., appellants, v. N. W. Halsey &amp; Company et al.
-    <text>Six hours allowed for argument in these cases. Argument commenced by Mr. Edward C. Turner for the appellant in</text>
+    <text>Six hours allowed for argument in these cases. Argument commenced by Mr. Edward C. Turner for the appellant in Nos. 438, 439, and 440, continued by Mr. Clarence C. Caldwell for the appellants in No. 386, and by Mr. Grant Fellows for the appellants in No. 413. Adjourned until tomorrow at 12 o'clock. The day call for Tuesday, October 17, will be as follows: Nos. 438 (and 439, 440, 386, and 413), 212, 372, 340 (and 341), 452, 412, 1 (and 4), 2, 3, and 5.</text>
   </case>
-  <case number="438,439,440">continued by Mr. Clarence C. Caldwell for the appellants in No. 386, and by Mr. Grant Fellows for the appellants in No. 413. Adjourned until tomorrow at 12 o'clock. The day call for Tuesday, October 17, will be as follows: Nos. 438 (and 439, 440, 386, and 413), 212, 372, 340 (and 341), 452, 412, 1 (and 4), 2, 3, and 5</case>
 </date>
 <date value="1916-10-17" day="Tuesday, October 17, 1916" page="27">
   <case number="5">Detroit United Railway, plaintiff in error, v. City of Detroit.
@@ -4786,7 +4785,10 @@
     <text>Petition for a writ of certiorari to the Supreme Court of the State of Oklahoma submitted by Mr. Charles J. Kappler for the petitioner, with leave to Mr. Assistant Attorney General Todd to file brief herein within one week if so advised. Leave granted to print record herein within ten days.</text>
   </case>
   <case number="520">Ohio C. Barber, petitioner, v. The Columbia Chemical Company.
-    <text>Petition for a writ of certiorari to the United States Circuit Court of Appeals for the Sixth Circuit submitted by Mr. Charles E. Smoyer for the petitioner, and by Mr. W. T. Holliday for the respondent. Nos. 1080, 1081, 1082, and 1083. Ocean Steamship Company, Ltd., petitioner, v. United States Steel Products Company. Petition for writs of certiorari to the United States Circuit Court of Appeals for the Second Circuit submitted by Mr. L. Russell Alden in behalf of Mr. Charles S. Haight for the petitioner, and by Mr. J. Parker Kirlin for the respondent.</text>
+    <text>Petition for a writ of certiorari to the United States Circuit Court of Appeals for the Sixth Circuit submitted by Mr. Charles E. Smoyer for the petitioner, and by Mr. W. T. Holliday for the respondent.</text>
+  </case>
+  <case number="1080,1081,1082,1083">Ocean Steamship Company, Ltd., petitioner, v. United States Steel Products Company.
+    <text>Petition for writs of certiorari to the United States Circuit Court of Appeals for the Second Circuit submitted by Mr. L. Russell Alden in behalf of Mr. Charles S. Haight for the petitioner, and by Mr. J. Parker Kirlin for the respondent.</text>
   </case>
   <case number="1087">Edward N. Maul and Florida Citrus Supply Company, petitioners, v. L. B. Skinner Manufacturing Company.
     <text>Petition for a writ of certiorari to the United States Circuit Court of Appeals for the Fifth Circuit submitted by Mr. F. M. Durrence and Mr. George C. Bedell for the petitioners, and by Mr. T. Hart Anderson for the respondent.</text>
@@ -4946,7 +4948,10 @@
 </date>
 <date value="1917-05-07" day="Monday, May 7, 1917" page="251">
   <case number="1077">N. J. M. Shimer, petitioner, v. Sabine W. Wister.
-    <text>Petition for a writ of certiorari to the United States Circuit Court of Appeals for the Third Circuit denied. Nos. 1080, 1081, 1082, and 1083. Ocean Steamship Company, Limited, petitioner, v. United States Steel Products Company. Petition for writs of certiorari to the United States Circuit Court of Appeals for the Second Circuit denied.</text>
+    <text>Petition for a writ of certiorari to the United States Circuit Court of Appeals for the Third Circuit denied.</text>
+  </case>
+  <case number="1080,1081,1082,1083">Ocean Steamship Company, Limited, petitioner, v. United States Steel Products Company.
+    <text>Petition for writs of certiorari to the United States Circuit Court of Appeals for the Second Circuit denied.</text>
   </case>
   <case number="1087">Edward N. Maull et al., petitioners, v. L. B. Skinner Manufacturing Company.
     <text>Petition for writ of certiorari to the United States Circuit Court of Appeals for the Fifth Circuit denied.</text>
@@ -5423,7 +5428,10 @@
     <text>Submitted by Mr. John W. Davis in behalf of Mr. Charles A. Atkinson for the plaintiffs in error.</text>
   </case>
   <case number="1129">The Delaware, Lackawanna &amp; Western Railroad Company, petitioners, v. Robert H. Madden.
-    <text>Petition for a writ of certiorari to the United States Circuit Court of Appeals for the Second Circuit submitted by Mr. W. W. McGee in behalf of Mr. William S. Jenney for the petitioner and by Mr. Clayton R. Lusk for the respondent. Nos. 1035, 1036, 1037, and 1038. Western Union Telegraph Company, plaintiff in error, v. Louisville &amp; Nashville Railroad Company et al. Motions to dismiss or affirm submitted by Mr. E. Perry Thomas and Mr. Henry L. Stone for the defendants in error in support of the motion, and by Mr. William M. Williams, Mr. Rush Taggart, Mr. Ray Rushton, and Mr. Forney Johnston for the plaintiff in error in opposition thereto. Petition for writ of certiorari submitted by Mr. William M. Williams, Mr. Rush Taggart, Mr. Ray Rushton, and Mr. Forney Johnston for the plaintiff in error in support of the petition, and by Mr. Henry L. Stone and Mr. E. Perry Thomas for the defendants in error in opposition thereto.</text>
+    <text>Petition for a writ of certiorari to the United States Circuit Court of Appeals for the Second Circuit submitted by Mr. W. W. McGee in behalf of Mr. William S. Jenney for the petitioner and by Mr. Clayton R. Lusk for the respondent.</text>
+  </case>
+  <case number="1035,1036,1037,1038">Western Union Telegraph Company, plaintiff in error, v. Louisville &amp; Nashville Railroad Company et al.
+    <text>Motions to dismiss or affirm submitted by Mr. E. Perry Thomas and Mr. Henry L. Stone for the defendants in error in support of the motion, and by Mr. William M. Williams, Mr. Rush Taggart, Mr. Ray Rushton, and Mr. Forney Johnston for the plaintiff in error in opposition thereto. Petition for writ of certiorari submitted by Mr. William M. Williams, Mr. Rush Taggart, Mr. Ray Rushton, and Mr. Forney Johnston for the plaintiff in error in support of the petition, and by Mr. Henry L. Stone and Mr. E. Perry Thomas for the defendants in error in opposition thereto.</text>
   </case>
   <case number="1110">Indian Land &amp; Trust Company et al., petitioners, v. Robert L. Owen.
     <text>Petition for a writ of certiorari to the Supreme Court of the State of Oklahoma submitted by Mr. Lewis C. Lawson for the petitioners, and by Mr. W. W. Noffsinger for the respondent. No. Original. Ex parte: In the matter of Park &amp; Tilford, petitioner. Motion for leave to file petition for writ of mandamus submitted by Mr. Vincent P. Donihee and Mr. Edward S. Hatch for the petitioner.</text>
@@ -5615,7 +5623,10 @@
     <text>In error to the Supreme Court of the State of Michigan. Judgment reversed with costs; and cause remanded for further proceedings not inconsistent with the opinion of this court. Opinion by Mr. Chief Justice White. Dissenting: Mr. Justice Van Devanter and Mr. Justice Day. The Chief Justice also announced the following orders of the court:</text>
   </case>
   <case number="657">Joseph Henry Bash, et al., plaintiffs in error, v. William Howald.
-    <text>In error to the Supreme Court of the State of Oklahoma. Per curiam: Dismissed for want of jurisdiction upon the authority of Deming v. Carlisle Packing Co., 226 U. S., 102, 105; Consolidated Turnpike v. Norfolk, &amp;c. Ry. Co., 228 U. S., 596, 600; Parker v. McLain, 237 U. S., 469; Stewart v. Kansas City, 238 U. S., 14. In re Neagle, 135 U. S., 55; In re Delgado, 140 U. S., 586, 588. Nos. 1035, 1036, 1037, and 1038. Western Union Telegraph Company, plaintiff in error, v. Louisville &amp; Nashville Railroad Company. In error to the Supreme Court of the State of Alabama. Per curiam: Judgments affirmed with costs, upon the authority of Pensacola Telegraph Co. v. Western Union Telegraph Co., 96 U. S., 1; Western Union Telegraph Co. v. Ann Arbor R. R. Co., 178 U. S., 239; Western Union Telegraph Co. v. Pennsylvania R. R. Co., 195 U. S., 540; Western Union Telegraph Co. v. Richmond, 224 U. S., 160; Louisville &amp; Nashville R. R. Co. v. Western Union Telegraph Co., 237 U. S., 300. Petitions for writs of certiorari denied.</text>
+    <text>In error to the Supreme Court of the State of Oklahoma. Per curiam: Dismissed for want of jurisdiction upon the authority of Deming v. Carlisle Packing Co., 226 U. S., 102, 105; Consolidated Turnpike v. Norfolk, &amp;c. Ry. Co., 228 U. S., 596, 600; Parker v. McLain, 237 U. S., 469; Stewart v. Kansas City, 238 U. S., 14. In re Neagle, 135 U. S., 55; In re Delgado, 140 U. S., 586, 588.</text>
+  </case>
+  <case number="1035,1036,1037,1038">Western Union Telegraph Company, plaintiff in error, v. Louisville &amp; Nashville Railroad Company.
+    <text>In error to the Supreme Court of the State of Alabama. Per curiam: Judgments affirmed with costs, upon the authority of Pensacola Telegraph Co. v. Western Union Telegraph Co., 96 U. S., 1; Western Union Telegraph Co. v. Ann Arbor R. R. Co., 178 U. S., 239; Western Union Telegraph Co. v. Pennsylvania R. R. Co., 195 U. S., 540; Western Union Telegraph Co. v. Richmond, 224 U. S., 160; Louisville &amp; Nashville R. R. Co. v. Western Union Telegraph Co., 237 U. S., 300. Petitions for writs of certiorari denied.</text>
   </case>
   <case number="1122">Carolina, Clinchfield &amp; Ohio Railway, plaintiff in error, v. George W. Stroup.
     <text>In error to the United States Circuit Court of Appeals for the Sixth Circuit. Per curiam: Dismissed for want of jurisdiction upon the authority of section 3 of the act of Congress of September 6, 1916, 39 Stat., 726, 727, c. 448.</text>

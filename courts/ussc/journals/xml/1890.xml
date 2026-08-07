@@ -253,7 +253,7 @@
   <case number="1141">The Fitzgerald and Mallory Construction Co., plaintiff in error, vs. John Fitzgerald. Submitted pursuant to the 20th rule, by Mr. John F. Dillon and Mr. D. D. Duncan for the plaintiff in error, and by Mr. T. M. Marquett for the defendant in error</case>
   <case number="1317">P. Crowley, chief of police, etc., appellant, vs. Henry Christensen. Submitted, pursuant to the 20th rule, by Mr. J. D. Page for the appellant and by Mr. Jos. D. Redding for appellee</case>
   <case number="459">James Wallace Peake, plaintiff in error, vs. The City of New Orleans</case>
-  <case number="285">James Wallace Peake et al., appellants, vs. The City of New Orleans.
+  <case number="852">James Wallace Peake et al., appellants, vs. The City of New Orleans.
     <text>Argument continued by Mr. Carleton Hunt for the city of New Orleans, and by Mr. Thomas J. Semmes for Peake et al. Adjourned until tomorrow at 12 o'clock. The day call for Wednesday, the 29th inst., will be as follows: Nos. 459, etc., 1126, etc., 774, 1142, 1143, 1144, 40, 35, 42, and 43. こ</text>
   </case>
 </date>
@@ -265,8 +265,9 @@
   <case number="1142">Edward Smith, plaintiff in error, vs. The United States</case>
   <case number="1143">Henry Jones, plaintiff in error, vs. The United States</case>
   <case number="1144">George S. Key, plaintiff in error, vs. The United States. Ordered that three counsel for plaintiffs in error be allowed to make oral argument herein.
-    <text>Argued by Mr. E. J. Waring, Mr. John Henry Keene, jr., and Mr. Archibald Stirling for the plaintiffs in error, and by Mr. Attorney General Miller for the defendant in error. No. 1126, etc.—The Attorney General of Massachusetts, appt., vs. The Western Union Telegraph Co. Postponed for a full bench.</text>
+    <text>Argued by Mr. E. J. Waring, Mr. John Henry Keene, jr., and Mr. Archibald Stirling for the plaintiffs in error, and by Mr. Attorney General Miller for the defendant in error.</text>
   </case>
+  <case number="1126">The Attorney General of Massachusetts, appellant, vs. The Western Union Telegraph Co. Postponed for a full bench</case>
   <case number="774">The United States, appellant, vs. The Trinidad Coal and Coking Co.
     <text>Argument commenced by Mr. Assistant Attorney General Maury for the appellant. Adjourned until tomorrow at 12 o'clock. The day call for Thursday, October 30, will be as follows: Nos. 774, 40, 35, 42, 43, 45, 46, 47, 49, and 54. -10 C</text>
   </case>
@@ -546,7 +547,7 @@
   <case number="1556">Andrew J. Riker, appellant, vs. Thomas W. Alsop et al., ex'rs, etc.
     <text>Leave granted Andrew J. Riker to docket this appeal on entering his appearance in propria persona.</text>
   </case>
-  <case number="12">The Grover and Baker Sewing Machine Co., plaintiff in error, vs. Wm. P. Radcliffe.
+  <case number="72">The Grover and Baker Sewing Machine Co., plaintiff in error, vs. Wm. P. Radcliffe.
     <text>Argument continued by Mr. John A. J. Creswell for defendant in error, and concluded by Mr. Albert Constable for plaintiff in error.</text>
   </case>
   <case number="77">―Thomas S. King, plaintiff in error, vs. John W. Doane.
@@ -987,7 +988,7 @@
   <case number="1388">The Ætna Life Insurance Co., of Hartford, Conn., plaintiff in error, vs. Ada Ward, wife, etc.
     <text>Motion to advance submitted by Mr. John Linn in support of motion, and by Mr. Theron G. Strong in opposition thereto.</text>
   </case>
-  <case number="6,7-Orig">Ex parte: In the Matter of the Pennsylvania Co., petitioner.
+  <case number="6-Orig,7-Orig">Ex parte: In the Matter of the Pennsylvania Co., petitioner.
     <text>Argued by Mr. Daniel Davenport for petitioner, and by Mr. Lewis E. Stanton for respondents.</text>
   </case>
   <case number="105">R. Carter Wellford et al., appellants, vs. Wm. Tayloe Snyder, trustee.
@@ -1170,7 +1171,10 @@
 <date value="1890-12-19" day="Friday, December 19, 1890" page="71">
   <case number="1335">The Pacific Express Co., plaintiff in error, vs. James K. McDowell. Submitted pursuant to the 32d rule by Mr. C. A. Culberson for the plaintiff in error, and Mr. William A. McKenney for the defendant in error</case>
   <case number="121,122">The Baltimore and Potomac R. R. Co., plaintiff in error, vs. The Fifth Baptist Church of Washington, D. C.
-    <text>Argument continued by Mr. Enoch Totten for the plaintiff in error, by Mr. J. J. Darlington and Mr. M. F, Morris for defendant in error, and concluded by Mr. Enoch Totten for the plaintiff in error. 124. Alfred Marchand, plaintiff in error, vs. Josephine Adele Livaudais. Argued by Mr. George A. King and Mr. Charles W. Hornor, for the plaintiff in error, and submitted by Mr. Edgar H. Farrar, Mr. Ernest B. Kruttschmitt, and Mr. B. F. Jonas, for defendant in error.</text>
+    <text>Argument continued by Mr. Enoch Totten for the plaintiff in error, by Mr. J. J. Darlington and Mr. M. F, Morris for defendant in error, and concluded by Mr. Enoch Totten for the plaintiff in error.</text>
+  </case>
+  <case number="124">Alfred Marchand, plaintiff in error, vs. Josephine Adele Livaudais.
+    <text>Argued by Mr. George A. King and Mr. Charles W. Hornor, for the plaintiff in error, and submitted by Mr. Edgar H. Farrar, Mr. Ernest B. Kruttschmitt, and Mr. B. F. Jonas, for defendant in error.</text>
   </case>
   <case number="125">Abner L. Merrill, plaintiff in error, vs. The Town of Monticello.
     <text>Argument commenced by Mr. A. C. Harris, for the plaintiff in error.</text>
@@ -1219,7 +1223,7 @@
   <case number="39">The New York Belting and Packing Co., appellant, vs. The New Jersey Car Spring and Rubber Co.
     <text>Appeal from the C. C. U. S. for the southern district of New York. Decree reversed with costs and cause remanded, with directions to overrule the demurrer and take such further proceedings in accordance with the opinion of this court as law and justice may require. Opinion by Mr. Justice Bradley.</text>
   </case>
-  <case number="6,7-Orig">Ex parte: In the Matter of The Pennsylvania Company, petitioner.
+  <case number="6-Orig,7-Orig">Ex parte: In the Matter of The Pennsylvania Company, petitioner.
     <text>Petitions for writs of mandamus denied. Opinions by Mr. Justice Bradley.</text>
   </case>
   <case number="1383">Daniel G. Ambler et al., plaintiffs in error, vs. Isaac Eppinger.
@@ -1451,7 +1455,10 @@
     <text>Leave granted to Mr. Alonzo S. Wilderman to file an additional brief for the defendant in error herein.</text>
   </case>
   <case number="113">The United States, appellant, vs. Frederick D. Connor.
-    <text>Argued by Mr. Assistant Attorney General Cotton for the appellant, and by Mr. George A. King for appellee. Nos. 139, 140, 141, and 142.—James M. Coburn et al., appts. vs. The Cedar Valley Land and Cattle Company et al. Argued by Mr. L. C. Krauthoff for the appellants, and submitted by Mr. Morgan H. Beach for appellees. Adjourned until Monday next at 12 o'clock. The day call for Monday, January 12, will be as follows: Nos. 143, 145, 146, 147, 148, 149, 1518, 1293 and 1320, 778 and 1309.</text>
+    <text>Argued by Mr. Assistant Attorney General Cotton for the appellant, and by Mr. George A. King for appellee.</text>
+  </case>
+  <case number="139,140,141,142">James M. Coburn et al., appellants vs. The Cedar Valley Land and Cattle Company et al.
+    <text>Argued by Mr. L. C. Krauthoff for the appellants, and submitted by Mr. Morgan H. Beach for appellees. Adjourned until Monday next at 12 o'clock. The day call for Monday, January 12, will be as follows: Nos. 143, 145, 146, 147, 148, 149, 1518, 1293 and 1320, 778 and 1309.</text>
   </case>
 </date>
 <date value="1891-01-12" day="Monday, January 12, 1891">
@@ -1677,11 +1684,14 @@
   <case number="150">The Case Mfg. Co., plaintiff in error, v. Peter H. Soxman et al., etc.
     <text>Argument continued by Mr. Charles E. Burr for the plaintiff in error, by Mr. Paul H. Gaither for defendant in error, and concluded by Mr. James S. Moorhead for the plaintiff in error.</text>
   </case>
-  <case number="1126">etc.-The Attorney General of the Commonwealth of Massachusetts, appellant, vs. The Western Union Telegraph Co.
+  <case number="1126">The Attorney General of the Commonwealth of Massachusetts, appellant, vs. The Western Union Telegraph Co.
     <text>Argument commenced by Mr. Wager Swayne for the Western Union Telegraph Company, and continued by Mr. H. C. Bliss for the attorney-general of Massachusetts. Adjourned until tomorrow at 12 o'clock. The day call for Tuesday, January 20, will be as follows: Nos. 1126, etc., 151, 152, 153, 155, 157, 158, 159, 160, and 161.</text>
   </case>
 </date>
 <date value="1891-01-20" day="Tuesday, January 20, 1891" page="97">
+  <case number="1126">The Attorney General of the Commonwealth of Massachusetts, appellant, vs. The Western Union Telegraph Co.
+    <text>Argument continued by Mr. H. C. Bliss for the attorney-general of Massachusetts, and concluded by Mr. Wager Swayne for the Western Union Telegraph Company.</text>
+  </case>
   <case number="151">S. G. Bayne et al., plaintiffs in error, vs. D. B. Wiggins et ux.
     <text>Suggestion of death of J. M. Fuller, one of the plaintiffs in error herein, and appearance of Mary H. Fuller, executrix, etc., filed and entered on motion of M. F. Elliott for the plaintiffs in error. Argued by Mr. M. F. Elliott for the plaintiffs in error, and by Mr. S. A. Davenport for the defendants in error.</text>
   </case>
@@ -1741,14 +1751,17 @@
   <case number="758">The United States, appellant, vs. The Central Pacific R. R. Co.
     <text>Motion to vacate order of dismissal as to certain parts of the appeal entered December 11, 1890, submitted by Mr. Joseph K. McCammon for the appellee.</text>
   </case>
-  <case number="1585-">Robt. P. Simmons et al., appellants, vs. Harry R. Saul.
+  <case number="1585">Robt. P. Simmons et al., appellants, vs. Harry R. Saul.
     <text>On motion of Mr. R. B. Lines, in behalf of counsel, leave granted to file certain additional papers herein.</text>
   </case>
-  <case number="775-">Jesse Kepner, treas., etc., appellant, vs. Nathaniel J. Dustin.
+  <case number="775">Jesse Kepner, treas., etc., appellant, vs. Nathaniel J. Dustin.
     <text>Suggestion of death of Nathaniel J. Dustin, the appellee herein, and order of publication granted, on motion of Mr. R. W. Taylor for the appellant.</text>
   </case>
   <case number="170">The Logan County National Bank, plaintiff in error, vs. R. P. Townsend.
-    <text>Submitted by Mr. W. F. Browder for the plaintiff in error, and by Mr. John Feland for the defendant in error. ☐ No. 157.-Joseph T. Williams, appt., vs. The United States. Argument continued by Mr. J. K. Redington for the appellant, by Mr. Assistant Attorney General Parker for the appellee, and concluded by Mr. J. K. Redington for appellant.</text>
+    <text>Submitted by Mr. W. F. Browder for the plaintiff in error, and by Mr. John Feland for the defendant in error.</text>
+  </case>
+  <case number="157">Joseph T. Williams, appellant, vs. The United States.
+    <text>Argument continued by Mr. J. K. Redington for the appellant, by Mr. Assistant Attorney General Parker for the appellee, and concluded by Mr. J. K. Redington for appellant.</text>
   </case>
   <case number="158">R. H. Brown et al., appellants, vs. Chas. W. Trousdale et al.
     <text>Argument commenced by Mr. T. W. Brown for the appellants. Adjourned until tomorrow at 12 o'clock. The day call for Friday, January 23, will be as follows: Nos. 158, 159, 160, 161, 690, 167, 168, 169, 171, and 172.</text>
@@ -1820,10 +1833,7 @@
     <text>Motions to advance denied.</text>
   </case>
   <case number="1559">Erwin Davis, plaintiff in error, vs. Algernon S. Patrick.
-    <text>Motion to advance granted, and cause assigned for argument on the second Monday of the next term after cases already assigned for that day.</text>
-  </case>
-  <case number="552,553,602">to 618 inclusive; 632 to 642 inclusive; 678 to 681 inclusive; 1413 to 1415 inclusive, and 1509-The Chinese cases.-
-    <text>Motion to advance submitted by Mr. Solicitor General Taft for the United States.</text>
+    <text>Motion to advance granted, and cause assigned for argument on the second Monday of the next term after cases already assigned for that day. Nos. 552 and 553, 602 to 618 inclusive; 632 to 642 inclusive; 678 to 681 inclusive; 1413 to 1415 inclusive, and 1509-The Chinese cases.- Motion to advance submitted by Mr. Solicitor General Taft for the United States.</text>
   </case>
   <case number="758">The United States, appellant, vs. The Central Pacific Railroad Company.
     <text>On motion of Mr. Joseph K. McCammon for appellee, mandate granted. Ex parte: In the matter of Jeff. Wilson, petitioner. Motion for leave to file petition for a writ of habeas corpus submitted by Mr. J. Altheus Johnson for the petitioner.</text>
@@ -1983,10 +1993,7 @@
     <text>Motion to docket and dismiss with costs granted. No. 92, of Oct. term, 1889.-Bertrand Saloy, plff. in error, vs. Simon Bloch. Motion to set aside judgment herein and enter same nunc pro tunc as of December 19, 1889, granted.</text>
   </case>
   <case number="524">James Larkin et al., plaintiff in error, vs. David N. Upton et al.
-    <text>Motions to dismiss or affirm postponed to the hearing on the merits.</text>
-  </case>
-  <case number="552,553,602">to 618 inclusive; 632 to 642 inclusive; 678 to 681 inclusive; 1413 to 1415 inclusive, and 1509.-The Chinese cases.
-    <text>Motion to advance granted and cases assigned for argument on the 3d Monday of March next.</text>
+    <text>Motions to dismiss or affirm postponed to the hearing on the merits. Nos. 552 and 553, 602 to 618 inclusive; 632 to 642 inclusive; 678 to 681 inclusive; 1413 to 1415 inclusive, and 1509.-The Chinese cases. Motion to advance granted and cases assigned for argument on the 3d Monday of March next.</text>
   </case>
   <case number="1607">Patrick Manning, plaintiff in error, vs. Geo. Weeks, warden, etc.
     <text>Motions for leave to prosecute in forma pauperis and to advance granted and cause assigned for argument on the 3d Monday of March next after cases already assigned for that day. Ex parte. In the matter of Jeff. Wilson, petitioner. Motions for leave to file petition for a writ of habeas corpus and for leave to prosecute the same in forma pauperis granted, rule to issue, returnable on the second Monday of March next.</text>
@@ -2379,7 +2386,7 @@
   </case>
   <case number="12-Orig">) -Ex parte: In the matter of John L. Rapier, petitioner</case>
   <case number="13-Orig">Ex parte: In the matter of George W. Dupre, petitioner</case>
-  <case number="14">(original).-Ex parte: In the matter of George W. Dupre, petitioner.
+  <case number="14-Orig">Ex parte: In the matter of George W. Dupre, petitioner.
     <text>Motions for leave to file petitions for writs of habeas corpus granted, and rules ordered to issue, returnable on the third Monday of April next.</text>
   </case>
   <case number="1594">Wm. H. Jones, plaintiff in error, vs. The Commonwealth of Virginia</case>
@@ -2403,7 +2410,7 @@
   <case number="48">The United States, appellant, vs. The Central Pacific R. R. Co.
     <text>On motion of Mr. Solicitor-Géneral Taft for the plaintiffs in error and appellant, mandates granted.</text>
   </case>
-  <case number="5">(original).-The United States, complt., vs. The State of Texas.
+  <case number="5-Orig">The United States, complt., vs. The State of Texas.
     <text>On motion of Mr. Solicitor General Taft for complainant, leave to file replication granted.</text>
   </case>
   <case number="880">Daniel Magone, collr., etc., plaintiff in error, vs. Edward Luckemeyer et al</case>
@@ -2448,7 +2455,7 @@
   <case number="1448">The United States, appellant, v. William Floyd.
     <text>Argument continued by Mr. Rufus Mallory, Mr. John E. Parsons, and Mr. C. E. S. Wood for the appellees, and concluded by Mr. Assistant Attorney General Parker, for the appellant.</text>
   </case>
-  <case number="101-Orig">Ex parte: In the matter of Garnett, Stubbs &amp; Company, petitioners.
+  <case number="10-Orig">Ex parte: In the matter of Garnett, Stubbs &amp; Company, petitioners.
     <text>Argument commenced by Mr. Samuel B. Adams for petitioners. Adjourned until tomorrow at 12 o'clock. The day call for Tuesday, March 10, will be as follows: Nos. 1267, 733, 1117, 1151, 1152 and 1603, 1164, 1244, 1178, 169, and 419. Siul</text>
   </case>
 </date>
@@ -2483,7 +2490,7 @@
   <case number="1151">The United States, appellant, vs. Saml. Thane Poinier</case>
   <case number="1152">The United States, appellant, vs. Edward J. McDermott</case>
   <case number="1603">Edward J. McDermott, appellant, vs. The United States</case>
-  <case number="1164-">The United States, appellant, vs. Robert Barber</case>
+  <case number="1164">The United States, appellant, vs. Robert Barber</case>
   <case number="1244">The United States, appellant, vs. A. J. Van Duzee.
     <text>Argument commenced by Mr. John C. Chaney for the United States, and continued by Mr. E. J. McDermott and Mr. O. B. Hallam for Mc-Dermott, by Mr. George A. King for Ewing, by Mr. C. C. Lancaster for Poinier and Van Duzee, and submitted on printed argument by Mr. R. R. McMahon for Barber. Adjourned until tomorrow at 12 o'clock. The day call for Friday, March 13, will be as follows: Nos. 1117 etc., 1178, 169, 419, 1155, 1224, 1381, 1382, 1529, and 223.</text>
   </case>
@@ -3091,7 +3098,7 @@
   <case number="4-Orig">The State of Nebraska, complainant, vs. The State of Iowa. Leave to file cross-bill herein granted
     <text>On motion of Mr. Felix A. Reeve in behalf of counsel for defendant.</text>
   </case>
-  <case number="5">(original).—The United States, complainant, vs. The State of Texas. Leave to file stipulation as to admission of certain documentary evidence granted
+  <case number="5-Orig">The United States, complainant, vs. The State of Texas. Leave to file stipulation as to admission of certain documentary evidence granted
     <text>On motion of Mr. A. H. Garland for the defendant.</text>
   </case>
 </date>
@@ -3260,7 +3267,7 @@
   <case number="53">John N. A. Griswold, plaintiff in error, vs. Rowland G. Hazard et al.
     <text>Argued by Mr. James C. Carter for the plaintiff in error, and submitted on printed argument by Mr. Elias Merwin and Mr. Samuel Maddox for the defendants in error.</text>
   </case>
-  <case number="8">(Original.) Ex parte: In the matter of the Washington and Georgetown Railroad Company, petitioner.
+  <case number="8-Orig">Ex parte: In the matter of the Washington and Georgetown Railroad Company, petitioner.
     <text>Argument commenced by Mr. Enoch Totten for the petitioner, and continued by Mr. C. C. Cole and Mr. Wm. A. Cook for the respondent. Adjourned until tomorrow at 12 o'clock. The day call for Tuesday, April 14, will be as follows: Nos. 69, 302, 303, 304, 306, (307 and 308), 309, 310, 313, 314 and 315.</text>
   </case>
 </date>
@@ -3388,7 +3395,7 @@
   <case number="1280">Sylvester Pennoyer et al., appellants, vs. R. F. McConnaughy.
     <text>Appeal from the circuit court of the United States for the district of Oregon. Decree affirmed with costs. Opinion by Mr. Justice Lamar.</text>
   </case>
-  <case number="297-">The County of Boone, appellant, vs. The Burlington and Missouri River Railroad Company in Nebraska et al.
+  <case number="297">The County of Boone, appellant, vs. The Burlington and Missouri River Railroad Company in Nebraska et al.
     <text>Appeal from the circuit court of the United States for the district of Nebraska. Decree affirmed with costs. Opinion by Mr. Justice Blatchford. (Mr. Chief Justice Fuller did not sit in this case or take any part in its decision.)</text>
   </case>
   <case number="298">The county court of Scotland County and the judges thereof, plaintiffs in error, vs. The United States ex rel., James B. Dodge et al., executors of William Hill, deceased.
@@ -3473,7 +3480,7 @@
   <case number="362">J. Irving Pearce, assignee, etc., appellant, vs. James H. Rice.
     <text>Suggestion of death of Ira Foote, and motion to make his administrators parties, submitted by Mr. John A. J. Creswell in support of motion.</text>
   </case>
-  <case number="337-">The Central Iowa Railway Company, plaintiff in error, vs. William Pierce and H. S. Halbert, assignees.
+  <case number="337">The Central Iowa Railway Company, plaintiff in error, vs. William Pierce and H. S. Halbert, assignees.
     <text>In error to the supreme court of the State of Iowa. Dismissed with costs pursuant to the tenth rule.</text>
   </case>
   <case number="339">The United States, appellant, vs. Robert Barber.
@@ -3731,10 +3738,13 @@
     <text>Continued per stipulation.</text>
   </case>
   <case number="347">Marie P. Evans et al., appellants, vs. The State National Bank of the City of New Orleans.
-    <text>Argument continued by Mr. James McConnell for the appellee, and concluded by Mr. A. H. Garland for the appellants. Ex parte: In the matter of Peter J. Claassen, petitioner. Argued by Mr. H. M. Hitchings for the petitioner, by Mr. Edward Mitchell and Mr. Attorney General Miller in opposition to petition, and by Mr. George F. Edmunds as amicus curiæ.</text>
+    <text>Argument continued by Mr. James McConnell for the appellee, and concluded by Mr. A. H. Garland for the appellants.</text>
   </case>
 </date>
 <date value="1891-04-30" day="Thursday, April 30, 1891" page="194">
+  <case number="16-Orig">Ex parte: In the matter of Peter J. Claassen, petitioner.
+    <text>Argued by Mr. H. M. Hitchings for the petitioner, by Mr. Edward Mitchell and Mr. Attorney General Miller in opposition to petition, and by Mr. George F. Edmunds as amicus curiæ.</text>
+  </case>
   <case number="348">Edward L. McClain, appellant, vs. Andrew Ortmayer et al.
     <text>Continued.</text>
   </case>
@@ -4150,7 +4160,7 @@
   <case number="715">George Romney et al., appellants, vs. The United States.
     <text>Appeals from the supreme court of the Territory of Utah. Decree modified and affirmed. Announced by Mr. Justice Bradley.</text>
   </case>
-  <case number="168">John M. Ross, appellant, vs. James McIntyre, supt., etc.
+  <case number="1683">John M. Ross, appellant, vs. James McIntyre, supt., etc.
     <text>Appeal from circuit court of the United States for the northern district of New York. Order of circuit court affirmed with costs. Opinion by Mr. Justice Field.</text>
   </case>
   <case number="347">Marie P. Evans, etc., et al., appellants, vs. The State National Bank of the city of New Orleans.

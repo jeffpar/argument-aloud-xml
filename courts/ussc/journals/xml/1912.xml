@@ -2469,7 +2469,10 @@
 </date>
 <date value="1913-02-24" day="Monday, February 24, 1913" page="131">
   <case number="172">Isidor Straus et al., composing the firm of R. H. Macy &amp; Company, plaintiffs in error, v. American Publishers Association et al.
-    <text>Motion to continue submitted by Mr. Wallace McFarlane and Mr. Edmond E. Wise for the plaintiffs in error, in support of the motion, and by Mr. Stephen H. Olin and Mr. John G. Milburn for the defendants in error in opposition thereto. Nos. 679, 703, 710, and 711. International Harvester Company of America, plaintiff in error, v. The Commonwealth of Kentucky. Motions to advance submitted by Mr. Charles Carroll for the defendant in error.</text>
+    <text>Motion to continue submitted by Mr. Wallace McFarlane and Mr. Edmond E. Wise for the plaintiffs in error, in support of the motion, and by Mr. Stephen H. Olin and Mr. John G. Milburn for the defendants in error in opposition thereto.</text>
+  </case>
+  <case number="679,703,710,711">International Harvester Company of America, plaintiff in error, v. The Commonwealth of Kentucky.
+    <text>Motions to advance submitted by Mr. Charles Carroll for the defendant in error.</text>
   </case>
   <case number="961">Josephine P. McGowan, executrix, etc., et al., petitioners, v. Emily E. Parish, executrix, etc.
     <text>Petition for a writ of certiorari to the Court of Appeals of the District of Columbia submitted by Mr. Nathaniel Wilson and Mr. J. J. Darlington for the petitioners, and by Mr. Holmes Conrad and Mr. Leigh Robinson for the respondent. No., Original. In the matter of the petition to strike the name of Fletcher Dobyns from the roll of attorneys. Motion for leave to file petition submitted by Mr. William Armstrong in support of the petition.</text>
@@ -2581,7 +2584,10 @@
 </date>
 <date value="1913-03-03" day="Monday, March 3, 1913" page="137">
   <case number="172">Isidor Straus et al., composing the firm of R. H. Macy &amp; Co., plaintiffs in error, v. American Publishers Association et al.
-    <text>Motion to continue case until next term denied. Nos. 679, 703, 710, and 711. International Harvester Company of America, plaintiff in error, v. Commonwealth of Kentucky. Motions to advance denied.</text>
+    <text>Motion to continue case until next term denied.</text>
+  </case>
+  <case number="679,703,710,711">International Harvester Company of America, plaintiff in error, v. Commonwealth of Kentucky.
+    <text>Motions to advance denied.</text>
   </case>
 </date>
 <date value="1913-03-03" day="Monday, March 3, 1913" page="138">
@@ -3424,8 +3430,7 @@
   <case number="504">Etta L. Sanford et al., appellants, v. Santiago Ainsa, administrator, etc. Ordered that this case be placed on the summary docket. Order:
     <text>It is ordered that the cases transferred to the summary docket be assigned for hearing on Monday, May 5 next.</text>
   </case>
-  <case number="9">John A. Knott et al., railroad and warehouse commissioners et al., appellants, v. Chicago, Burlington &amp; Quincy Railroad Company</case>
-  <case number="12,339">to 372, 159, 428, 219, 291, 292, 293, 440, and 441, State Railroad Rate cases.
+  <case number="9">John A. Knott et al., railroad and warehouse commissioners et al., appellants, v. Chicago, Burlington &amp; Quincy Railroad Company; and Nos. 12, 339 to 372, 159, 428, 219, 291, 292, 293, 440, and 441, State Railroad Rate cases.
     <text>Leave granted to file brief herein as amicus curiæ, on motion of Mr. Assistant to the Attorney General Fowler for the United States.</text>
   </case>
   <case number="516">Albert B. Cameron, petitioner, v. The United States</case>

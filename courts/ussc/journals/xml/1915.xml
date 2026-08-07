@@ -2416,7 +2416,10 @@
 </date>
 <date value="1916-01-25" day="Tuesday, January 25, 1916" page="124">
   <case number="819">The State of South Dakota ex rel. R. O. Richards et al., plaintiffs in error, v. M. D. Whisman, as county auditor, et al.
-    <text>Motion to advance submitted by Mr. T. H. Null for the plaintiffs in error. Nos. 230, 231, 232, and 233. Southern Railway Company, plaintiff in error, v. W. C. Thurston. Submitted by Mr. John K. Graves for the plaintiff in error. No appearance for the defendant in error.</text>
+    <text>Motion to advance submitted by Mr. T. H. Null for the plaintiffs in error.</text>
+  </case>
+  <case number="230,231,232,233">Southern Railway Company, plaintiff in error, v. W. C. Thurston.
+    <text>Submitted by Mr. John K. Graves for the plaintiff in error. No appearance for the defendant in error.</text>
   </case>
   <case number="235">The Hutchinson Ice Cream Company et al., plaintiffs in error, v. The State of Iowa</case>
   <case number="275">A. B. Crowl, plaintiff in error, v. The Commonwealth of Pennsylvania.
@@ -2699,7 +2702,10 @@
     <text>In error to the Supreme Court of the State of Minnesota. Per curiam: Judgment reversed with costs upon the authority of Delaware, Lackwanna &amp; Western Railroad Co. v. Yurkonis (238 U. S., 439); Shanks v. Delaware, Lackawanna &amp; Western Railroad Co. (239 U. S., 556).</text>
   </case>
   <case number="794">Paul Daesche, appellant, v. Albert Bollschweiler, United States marshal, etc.
-    <text>Appeal from the District Court of the United States for the District of New Jersey. Per curiam: Dismissed for want of jurisdiction upon the authority of (1) Fay v. Crozer (217 U. S., 455), Hannis Distilling Co. v. Baltimore (216 U. S., 285, 288), Hendricks v. United States (223 U. S., 178, 184); (2) Benson v. Henkel (198 U. S., 1, 10-11), Pierce v. Creecy (210 U. S., 387, 401- 402); (3) Glasgow v. Moyer (225 U. S., 420), Johnson v. Hoy (227 U. S., 245), Henry v. Henkel (235 U. S., 219). Nos. 230, 231, 232, and 233. Southern Railway Company, plaintiff in error, v. W. C. Thurston. In error to the Supreme Court of the State of North Carolina. Per curiam: Judgments reversed with costs upon the authority of Southern Railway Co. v. Reid (222 U. S., 424), Yazoo &amp; Mississippi Valley Railroad Co. v. Greenwood Grocery Co. (227 U. S., 1), Charleston &amp; Western Carolina Railway Co. v. Varnville Furniture Co. (237 U. S., 597). No. , Original. The State of South Dakota, complainant, v. Charles B. Collins. Motion for leave to file bill of complaint granted, and process ordered to issue returnable on the first day of the next term.</text>
+    <text>Appeal from the District Court of the United States for the District of New Jersey. Per curiam: Dismissed for want of jurisdiction upon the authority of (1) Fay v. Crozer (217 U. S., 455), Hannis Distilling Co. v. Baltimore (216 U. S., 285, 288), Hendricks v. United States (223 U. S., 178, 184); (2) Benson v. Henkel (198 U. S., 1, 10-11), Pierce v. Creecy (210 U. S., 387, 401- 402); (3) Glasgow v. Moyer (225 U. S., 420), Johnson v. Hoy (227 U. S., 245), Henry v. Henkel (235 U. S., 219).</text>
+  </case>
+  <case number="230,231,232,233">Southern Railway Company, plaintiff in error, v. W. C. Thurston.
+    <text>In error to the Supreme Court of the State of North Carolina. Per curiam: Judgments reversed with costs upon the authority of Southern Railway Co. v. Reid (222 U. S., 424), Yazoo &amp; Mississippi Valley Railroad Co. v. Greenwood Grocery Co. (227 U. S., 1), Charleston &amp; Western Carolina Railway Co. v. Varnville Furniture Co. (237 U. S., 597). No. , Original. The State of South Dakota, complainant, v. Charles B. Collins. Motion for leave to file bill of complaint granted, and process ordered to issue returnable on the first day of the next term.</text>
   </case>
 </date>
 <date value="1916-02-21" day="Monday, February 21, 1916" page="138">
@@ -4095,9 +4101,8 @@
   <case number="904">Jeanette Stewart, as administratrix, etc., plaintiff in error, v. Louisville &amp; Nashville Railroad Company</case>
   <case number="743">The Chesapeake &amp; Ohio Railway Company, plaintiff in error, v. Asa P. Carnahan</case>
   <case number="478">The Minneapolis &amp; St. Louis Railroad Company, plaintiff in error, v. George Bombolis, as administrator, etc.
-    <text>Argument continued by Mr. George H. Lamar for Stewart, administratrix, in</text>
+    <text>Argument continued by Mr. George H. Lamar for Stewart, administratrix, in Nos. 485 and 904, by Mr. B. D. Warfield for the Louisville &amp; Nashville Railroad Company in Nos. 485 and 904, and concluded by Mr. George H. Lamar for Stewart, administratrix, in Nos. 485 and 904.</text>
   </case>
-  <case number="485,904">by Mr. B. D. Warfield for the Louisville &amp; Nashville Railroad Company in Nos. 485 and 904, and concluded by Mr. George H. Lamar for Stewart, administratrix, in Nos. 485 and 904</case>
   <case number="312">Mary Mulcare et al., administrators, etc., plaintiffs in error, v. The City of Chicago.
     <text>Argued by Mr. John W. Walsh for 10434-16- -94 the plaintiffs in error, and by Mr. Chester E. Cleveland for the defendant in error.</text>
   </case>

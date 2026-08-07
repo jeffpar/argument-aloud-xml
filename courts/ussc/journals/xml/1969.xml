@@ -1451,7 +1451,10 @@
     <text>Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.</text>
   </case>
   <case number="78">Yam Sang Kwai, petitioner, v. Immigration and Naturalization Service.
-    <text>Petition for writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit denied. Mr. Justice Douglas is of the opinion that certiorari should be granted. ☐ No. 275. Ernest Werner Loos, petitioner, v. Immigration and Naturalization Service. Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied. Mr. Justice Douglas is of the opinion that certiorari should be granted.</text>
+    <text>Petition for writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit denied. Mr. Justice Douglas is of the opinion that certiorari should be granted.</text>
+  </case>
+  <case number="275">Ernest Werner Loos, petitioner, v. Immigration and Naturalization Service.
+    <text>Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied. Mr. Justice Douglas is of the opinion that certiorari should be granted.</text>
   </case>
   <case number="349">Salvato J. Silverio, petitioner, v. Municipal Court of the City of Boston and City of Medford.
     <text>Petition for writ of certiorari to Supreme Judicial Court of Massachusetts denied. Mr. Justice Douglas is of the opinion that certiorari should be granted.</text>
@@ -3090,7 +3093,7 @@
     <text>Petition for writ of certiorari to the United States. Court of Appeals for the Eighth Circuit denied.</text>
   </case>
   <case number="819-Misc">Anna B. Kovach, etc., petitioner, v. Lyman W. Noyes et al.
-    <text>Petition for writ of certiorari to the Court of Appeal of ☐ California, Second Appellate District, denied.</text>
+    <text>Petition for writ of certiorari to the Court of Appeal of California, Second Appellate District, denied.</text>
   </case>
   <case number="852-Misc">John L. Robinson, petitioner, v. Illinois.
     <text>Petition for writ of certiorari to the Supreme Court of Illinois denied.</text>
@@ -3878,7 +3881,7 @@
     <text>Argued by Mr. George W. Liebmann for the appellants and by Mr. Joseph A. Matera for the appellees.</text>
   </case>
   <case number="188">Robert Baldwin, appellant, v. New York.
-    <text>Argued by Mr. William E. Hellerstein for the appellant and by Mr. Michael R. Juviler for the appellee. ☐ Ajourned until tomorrow at 10 o'clock. The day call for Wednesday, December 10, 1969, will be as follows: No. 2, Misc. ☑</text>
+    <text>Argued by Mr. William E. Hellerstein for the appellant and by Mr. Michael R. Juviler for the appellee. Ajourned until tomorrow at 10 o'clock. The day call for Wednesday, December 10, 1969, will be as follows: No. 2, Misc. ☑</text>
   </case>
 </date>
 <date value="1969-12-10" day="Wednesday, December 10, 1969" page="156">
@@ -7411,8 +7414,9 @@
     <text>Motion to expedite consideration of the petition for certiorari granted. Petition for writ of certiorari to the Supreme Court of Alabama denied.</text>
   </case>
   <case number="784-Misc">George Cuadrado, petitioner, v. United States.
-    <text>Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied. ☐ No. 1006, Misc. Gilbert M. Palos, petitioner, v. United States. Pecition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied.</text>
+    <text>Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied.</text>
   </case>
+  <case number="1006-Misc">Gilbert M. Palos, petitioner, v. United States. Pecition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied</case>
 </date>
 <date value="1970-03-16" day="Monday, March 16, 1970" page="295">
   <case number="1137-Misc">Irving Jones, petitioner, v. United States.

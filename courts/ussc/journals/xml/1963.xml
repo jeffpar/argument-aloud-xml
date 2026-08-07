@@ -2206,7 +2206,10 @@
     <text>Petition for writ of certiorari to the Court of Appeals of New York denied.</text>
   </case>
   <case number="499-Misc">Demostenes Arrocha, petitioner, v. E. A. Salyer.
-    <text>Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied. ☐ No. 506, Misc. Roy Ross, Jr., et al., petitioners, v. William H. Bannan, Warden, et al. Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied. ↓</text>
+    <text>Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied.</text>
+  </case>
+  <case number="506-Misc">Roy Ross, Jr., et al., petitioners, v. William H. Bannan, Warden, et al.
+    <text>Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied. ↓</text>
   </case>
 </date>
 <date value="1963-10-28" day="Monday, October 28, 1963" page="81">
@@ -2223,9 +2226,8 @@
     <text>Petition for writ of certiorari to the Court of Appeals of New York denied. LEAVE TO FILE PETITION FOR WRIT OF HABEAS CORPUS DENIED</text>
   </case>
   <case number="66-Misc">James Crawford, petitioner, v. L. B. Stevens, Warden.
-    <text>Motion for leave to file petition for writ of habeas corpus denied. Adjourned until Tuesday, November 12, 1963, at 10 o'clock. The day call for Tuesday, November 12, 1963, will be as follows:</text>
+    <text>Motion for leave to file petition for writ of habeas corpus denied. Adjourned until Tuesday, November 12, 1963, at 10 o'clock. The day call for Tuesday, November 12, 1963, will be as follows: Nos. 20 and 23 (27 and 41). Х FOD</text>
   </case>
-  <case number="20,23">(27 and 41). Х FOD</case>
 </date>
 <date value="1963-11-12" day="Tuesday, November 12, 1963" page="83">
   <case number="44">United States, petitioner, v. Aaron Zacks et al.
@@ -2639,9 +2641,8 @@
 </date>
 <date value="1963-11-12" day="Tuesday, November 12, 1963" page="95">
   <case number="20">WMCA, Inc., et al., appellants, v. Caroline K. Simon, Secretary of State of the State of New York, et al.
-    <text>Four hours allowed for oral argument. Argument commenced by Mr. Leonard B. Sand for the appellants and continued by Mr. Solicitor General Cox for the United States, as amicus curiae, by special leave of Court, and by Mr. Irving Galt for the appellees. Adjourned until tomorrow at 10 o'clock. The day call for Wednesday, November 13, 1963, will be as follows:</text>
+    <text>Four hours allowed for oral argument. Argument commenced by Mr. Leonard B. Sand for the appellants and continued by Mr. Solicitor General Cox for the United States, as amicus curiae, by special leave of Court, and by Mr. Irving Galt for the appellees. Adjourned until tomorrow at 10 o'clock. The day call for Wednesday, November 13, 1963, will be as follows: Nos. 20, 23 (27, and 41) and 29.</text>
   </case>
-  <case number="20,23">(27, and 41) and 29</case>
 </date>
 <date value="1963-11-13" day="Wednesday, November 13, 1963" page="96">
   <case number="20">WMCA, Inc., et al., appellants, v. Caroline K. Simon, Secretary of State of the State of New York, et al. Arguments
@@ -2650,7 +2651,7 @@
 </date>
 <date value="1963-11-13" day="Wednesday, November 13, 1963" page="97">
   <case number="23">B. A. Reynolds, etc., et al., appellants, v. M. O. Sims, et al</case>
-  <case number="27">David J. Vann and Robert S. Vance, appellants, v. Agnes ☐ Baggett, Secretary of State of the State of Alabama, et al</case>
+  <case number="27">David J. Vann and Robert S. Vance, appellants, v. Agnes Baggett, Secretary of State of the State of Alabama, et al</case>
   <case number="41">John W. McConnell, Jr., et al., appellants, v. Agnes Baggett, Secretary of State of Alabama, et al.
     <text>Three hours allowed for oral argument. Argued by Mr. W. McLean Pitts for the appellants in No. 23 and the appellees in Nos. 27 and 41, by Mr. Richmond M. Flowers for appellee, Richmond M. Flowers, by Mr. Charles Morgan, Jr., for the appellees in No. 23, by Mr. David J. Vann for the appellants in No. 27, by Mr. John W. McConnell, Jr., for the appellants in</text>
   </case>
@@ -3070,7 +3071,7 @@
     <text>Petition for writ of certiorari to the Court of Appeals of New York denied.</text>
   </case>
   <case number="692-Misc">Leon Lawlor, petitioner, v. New York.
-    <text>Petition for writ of certiorari to the Appellate Division of the Supreme Court ☐ of New York, Second Judicial Department, denied.</text>
+    <text>Petition for writ of certiorari to the Appellate Division of the Supreme Court of New York, Second Judicial Department, denied.</text>
   </case>
   <case number="93-Misc">Caleb Peterson, petitioner, v. California.
     <text>Petition for writ of certiorari to the Appellate Department of the Superior Court of California, County of Los Angeles, denied. Mr. Justice Douglas is of the opinion that certiorari should be granted.</text>
@@ -4922,7 +4923,7 @@
     <text>Petition for writ of certiorari to the United States Court of Claims denied.</text>
   </case>
   <case number="851-Misc">John G. Oppenheimer, petitioner, v. California.
-    <text>Petition for writ of certiorari to the Supreme Court of California ☐ denied.</text>
+    <text>Petition for writ of certiorari to the Supreme Court of California denied.</text>
   </case>
   <case number="852-Misc">Elisha Merritt Croom, petitioner, v. New York.
     <text>Petition for writ of certiorari to the Appellate Division of the Supreme Court of New York, Second Judicial Department, denied.</text>
@@ -5105,9 +5106,8 @@
     <text>Argued by Mr. Charles Hieken for the petitioners and by Mr. Elliott I. Pollock for the respondent.</text>
   </case>
   <case number="77">Harold A. Boire, Regional Director, Twelfth Region, National Labor Relations Board, petitioner, v. The Greyhound Corporation.
-    <text>Argued by Mr. Norton J. Come for the petitioner and by Mr. Warren E. Hall, Jr., for the respondent. Adjourned until tomorrow at 10 o'clock. The day call for Tuesday, February 18, 1964, will be as follows:</text>
+    <text>Argued by Mr. Norton J. Come for the petitioner and by Mr. Warren E. Hall, Jr., for the respondent. Adjourned until tomorrow at 10 o'clock. The day call for Tuesday, February 18, 1964, will be as follows: Nos. 101, 58 (and 59), 88, and 111. ✓ i f</text>
   </case>
-  <case number="101,58">(and 59), 88, and 111. ✓ i f</case>
 </date>
 <date value="1964-02-18" day="Tuesday, February 18, 1964" page="202">
   <case number="101">United States, appellant, v. Ward Baking Co. et al.
@@ -6416,7 +6416,7 @@
     <text>On writ of certiorari to the United States Court of Appeals for the Tenth Circuit. Judgment reversed and case remanded to the Court of Appeals for further proceedings in conformity with the opinion of this Court. Opinion by Mr. Justice Douglas. Opinion by Mr. Justice Stewart dissenting in part.</text>
   </case>
   <case number="34">Brotherhood of Railroad Trainmen, petitioner, v. Virginia ex rel. Virginia State Bar.
-    <text>On writ of certiorari to the Supreme Court of Appeals of Virginia. Judgment and decree vacated and If ☐ case remanded to the Supreme Court of Appeals of Virginia for further proceedings not inconsistent with the opinion of this Court. Opinion by Mr. Justice Black. Dissenting opinion by Mr. Justice Clark with whom Mr. Justice Harlan joins. Mr. Justice Stewart took no part in the decision of this case. The Chief Justice said: "The other orders of the Court have been certified by the Chief Justice and filed with the Clerk and will not be announced orally." OPINIONS PER CURIAM</text>
+    <text>On writ of certiorari to the Supreme Court of Appeals of Virginia. Judgment and decree vacated and If case remanded to the Supreme Court of Appeals of Virginia for further proceedings not inconsistent with the opinion of this Court. Opinion by Mr. Justice Black. Dissenting opinion by Mr. Justice Clark with whom Mr. Justice Harlan joins. Mr. Justice Stewart took no part in the decision of this case. The Chief Justice said: "The other orders of the Court have been certified by the Chief Justice and filed with the Clerk and will not be announced orally." OPINIONS PER CURIAM</text>
   </case>
 </date>
 <date value="1964-04-20" day="Monday, April 20, 1964" page="275">
@@ -6689,7 +6689,7 @@
     <text>Argument continued by Mr. Milton P. Rice for the appellee and concluded by Mr. Solicitor General Cox for the appellants.</text>
   </case>
   <case number="461">Herbert Aptheker et al., appellants, v. The Secretary of State.
-    <text>Argued by Mr. John J. Abt and Mr. Joseph Forer for the appellants and by Mr. Abram Chayes for the appellee. ☐☐ TCHIN H 700-278-64- -70</text>
+    <text>Argued by Mr. John J. Abt and Mr. Joseph Forer for the appellants and by Mr. Abram Chayes for the appellee. TCHIN H 700-278-64- -70</text>
   </case>
 </date>
 <date value="1964-04-21" day="Tuesday, April 21, 1964" page="284">
@@ -7925,7 +7925,7 @@
     <text>Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied.</text>
   </case>
   <case number="1053">The United States Time Corporation, petitioner, v. Hamilton Watch Company.
-    <text>Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied. ☐☐</text>
+    <text>Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied.</text>
   </case>
 </date>
 <date value="1964-06-08" day="Monday, June 8, 1964" page="358">

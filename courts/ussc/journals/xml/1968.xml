@@ -1499,7 +1499,7 @@
     <text>Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.</text>
   </case>
   <case number="308-Misc">William H. Christman, petitioner, v. Gerald S. Lesher.
-    <text>Petition for writ of certiorari to the United States Court of ☐ Appeals for the Third Circuit denied.</text>
+    <text>Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied.</text>
   </case>
   <case number="309-Misc">John Wright, petitioner, v. Charles L. McKendrick, Warden.
     <text>Petition for writ of certiorari to the Appellate Division of the Supreme Court of New York, Third Judicial Department, denied.</text>
@@ -1979,9 +1979,8 @@
     <text>Argued by Mr. Eugene R. Warren for the appellants and by Mr. Don Langston for the appellee.</text>
   </case>
   <case number="8">William Spinelli, petitioner, v. United States.
-    <text>Leave granted Mr. Joseph J. Connolly to appear and present oral argument for the respondent, pro hac vice, on motion of Mr. Daniel M. Friedman. Argument commenced by Mr. Irl B. Baris for the petitioner. Adjourned until tomorrow at 10 o'clock. The day call for Thursday, October 17, 1968, will be as follows:</text>
+    <text>Leave granted Mr. Joseph J. Connolly to appear and present oral argument for the respondent, pro hac vice, on motion of Mr. Daniel M. Friedman. Argument commenced by Mr. Irl B. Baris for the petitioner. Adjourned until tomorrow at 10 o'clock. The day call for Thursday, October 17, 1968, will be as follows: Nos. 8, 10, 13 (and 15), and 5. Х</text>
   </case>
-  <case number="8,10,13">(and 15), and 5. Х</case>
 </date>
 <date value="1968-10-17" day="Thursday, October 17, 1968" page="66">
   <case number="8">William Spinelli, petitioner, v. United States.
@@ -2271,9 +2270,8 @@
     <text>Argued by Emanuel Harris for the petitioner and by Mr. Overton A. Currie for the respondents.</text>
   </case>
   <case number="17">United States, petitioner, v. The Donruss Company.
-    <text>Argument commenced by Mr. Mitchell Rogovin for the petitioner and continued by Mr. Richard L. Braunstein for the respondent. Adjourned until tomorrow at 10 o'clock. The day call for Wednesday, October 23, 1968, will be as follows:</text>
+    <text>Argument commenced by Mr. Mitchell Rogovin for the petitioner and continued by Mr. Richard L. Braunstein for the respondent. Adjourned until tomorrow at 10 o'clock. The day call for Wednesday, October 23, 1968, will be as follows: Nos. 17, 20, and 9 (33 and 34). Х</text>
   </case>
-  <case number="17,20,9">(33 and 34). Х</case>
 </date>
 <date value="1968-10-23" day="Wednesday, October 23, 1968" page="80">
   <case number="17">United States, petitioner, v. The Donruss Company.
@@ -2394,7 +2392,7 @@
 </date>
 <date value="1968-10-28" day="Monday, October 28, 1968" page="90">
   <case number="406">McCullough Tool Company, petitioner, v. Well Surveys, Inc., et al.
-    <text>Petition for writ of certiorari to the United States Court ☐ of Appeals for the Tenth Circuit denied.</text>
+    <text>Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied.</text>
   </case>
   <case number="407">C. Murray Henderson, Warden, petitioner, v. Albert George Progue et al.
     <text>Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied.</text>
@@ -2931,7 +2929,7 @@
   <case number="40">William Joe Johnson, petitioner, v. Harry S. Avery, Commissioner of Correction, et al.
     <text>Argued by Mr. Karl P. Warden for the petitioner and by Mr. Thomas E. Fox for the respondents. Adjourned until Monday, November 18, 1968, at 10 o'clock. The day call for Monday, November 18, 1968, will be as follows:</text>
   </case>
-  <case number="42,27,9-Orig">41 and 47</case>
+  <case number="42-Orig,27-Orig,9-Orig">41 and 47</case>
 </date>
 <date value="1968-11-18" day="Monday, November 18, 1968" page="111">
   <case number="35">Carl F. Grunenthal, petitioner, v. The Long Island Railroad Company et al.
@@ -5079,7 +5077,7 @@
 </date>
 <date value="1969-01-15" day="Wednesday, January 15, 1969" page="188">
   <case number="61">National Labor Relations Board, petitioner, v. Joseph T. strong, d/b/a Strong Roofing &amp; Insulating Co.
-    <text>On writ of certiorari to the United States Court of Appeals for the Ninth Circuit. Judgment reversed and case remanded to the Court of Appeals for further proceedings in conformity with the opinion of this Court. Opinion by Mr. Justice White. Mr. Justice Black concurs in the reversal of the Court of Appeals' judgment, but he would direct that the case be ☐ remanded to the Board for it to determine whether to submit to arbitration in accord with the contract. Dissenting opinion by Mr. Justice Douglas. ORAL ARGUMENT</text>
+    <text>On writ of certiorari to the United States Court of Appeals for the Ninth Circuit. Judgment reversed and case remanded to the Court of Appeals for further proceedings in conformity with the opinion of this Court. Opinion by Mr. Justice White. Mr. Justice Black concurs in the reversal of the Court of Appeals' judgment, but he would direct that the case be remanded to the Board for it to determine whether to submit to arbitration in accord with the contract. Dissenting opinion by Mr. Justice Douglas. ORAL ARGUMENT</text>
   </case>
   <case number="293">Robert Eli Stanley, appellant, v. Georgia.
     <text>Argument continued by Mr. J. Robert Sparks for the appellee and concluded by Mr. Wesley R. Asinof for the appellant.</text>
@@ -6932,10 +6930,7 @@
 <date value="1969-03-10" day="Monday, March 10, 1969" page="262">
   <case number="11">Igor A. Ivanov, petitioner, v. United States</case>
   <case number="197">John William Butenko, petitioner, v. United States.
-    <text>On writs of certiorari to the United States Court of Appeals for the Third Circuit. In No. 133, October Term, 1967, the per curiam order of January 29, 1968, is withdrawn and the order denying the petition for writ of certiorari is vacated. Petition for rehearing and petition for writ of certiorari granted. Judgments vacated and case remanded to the United States District Court for the District of Colorado for further proceedings in conformity with the opinion of this Court. In</text>
-  </case>
-  <case number="11,197">judgments vacated and cases remanded to the United States District Court for the District of New Jersey for further proceedings in conformity with the opinion of this Court.
-    <text>Opinion by Mr. Justice White. Mr. Justice Douglas, while joining the opinion of the Court, concurs in Part II of the opinion of Mr. Justice Fortas and holds that the protection of the Fourth Amendment includes also those against whom the investigation is directed. Mr. Justice Stewart Joins Mr. Justice Harlan's dissenting opinion except insofar as it would authorize in camera proceedings in the Ivanov and Butenko cases. He would apply the same standards to all three cases, agreeing to that extent with the opinion of the Court. Mr. Justice Black dissents, adhering to his dissent in Katz v. United States, 389 U.S. 347, 364–374 (1967). Opinion by Mr. Justice Harlan concurring in part and dissenting in part. Opinion by Mr. Justice Fortas concurring in part and dissenting in part. Mr. Justice Marshall took no part in the consideration or decision of these cases.</text>
+    <text>On writs of certiorari to the United States Court of Appeals for the Third Circuit. In No. 133, October Term, 1967, the per curiam order of January 29, 1968, is withdrawn and the order denying the petition for writ of certiorari is vacated. Petition for rehearing and petition for writ of certiorari granted. Judgments vacated and case remanded to the United States District Court for the District of Colorado for further proceedings in conformity with the opinion of this Court. In Nos. 11 and 197, judgments vacated and cases remanded to the United States District Court for the District of New Jersey for further proceedings in conformity with the opinion of this Court. Opinion by Mr. Justice White. Mr. Justice Douglas, while joining the opinion of the Court, concurs in Part II of the opinion of Mr. Justice Fortas and holds that the protection of the Fourth Amendment includes also those against whom the investigation is directed. Mr. Justice Stewart Joins Mr. Justice Harlan's dissenting opinion except insofar as it would authorize in camera proceedings in the Ivanov and Butenko cases. He would apply the same standards to all three cases, agreeing to that extent with the opinion of the Court. Mr. Justice Black dissents, adhering to his dissent in Katz v. United States, 389 U.S. 347, 364–374 (1967). Opinion by Mr. Justice Harlan concurring in part and dissenting in part. Opinion by Mr. Justice Fortas concurring in part and dissenting in part. Mr. Justice Marshall took no part in the consideration or decision of these cases.</text>
   </case>
   <case number="42">Fred L. Shuttlesworth, petitioner, v. City of Birmingham, Alabama.
     <text>On writ of certiorari to the Supreme Court of Alabama. Judgment reversed and case remanded to the Supreme Court of Alabama for further proceedings not inconsistent with the opinion of this Court. Opinion by Mr. Justice Stewart. Mr. Justice Black concurs in the result. Concurring opinion by Mr. Justice Harlan. Mr. Justice Marshall took no part in the consideration or decision of this case.</text>
@@ -7780,9 +7775,8 @@
     <text>One hour and forty minutes allowed for oral argument. Argued by Mr. Randall C. Coleman for petitioners Nacirema Operating Company, Inc., et al., by Mr. Solicitor General Griswold for petitioners John P. Traynor and Jerry C. Oosting, by Mr. John J. O'Connor, Jr., for respondents William H. Johnson and Julia T. Klosek and by Ralph Rabinowitz for respondent Albert Avery.</text>
   </case>
   <case number="548">Roderick Jenkins, appellant, v. John Julien McKeithen et al.
-    <text>Argued by Mr. J. Minos Simon for the appellant and by Mr. Ashton L. Stewart for the appellees. Adjourned until tomorrow at 10 o'clock. The day call for Wednesday, March 26, 1969, will be as follows:</text>
+    <text>Argued by Mr. J. Minos Simon for the appellant and by Mr. Ashton L. Stewart for the appellees. Adjourned until tomorrow at 10 o'clock. The day call for Wednesday, March 26, 1969, will be as follows: Nos. 749, 573 (and 691), 585, and 770. Х</text>
   </case>
-  <case number="749,573">(and 691), 585, and 770. Х</case>
 </date>
 <date value="1969-03-26" day="Wednesday, March 26, 1969" page="293">
   <case number="770">Ted Steven Chimel, petitioner, v. California.
@@ -10313,7 +10307,7 @@
     <text>Petition for write of certiorari to the Appellate Division of the Supreme Court of New York, Second Judicial Department, denied.</text>
   </case>
   <case number="1015-Misc">Rogelio Nieves Negron, petitioner, v. New York.
-    <text>Petition for writ of certiorari to the Appellate Division of the Su-☐ preme Court of New York, Second Judicial Department, denied.</text>
+    <text>Petition for writ of certiorari to the Appellate Division of the Supreme Court of New York, Second Judicial Department, denied.</text>
   </case>
   <case number="1069-Misc">Thomas Geter, petitioner, v. Louis S. Nelson. Warden.
     <text>Petition for writ of certiorari to the Supreme Court of California denied.</text>

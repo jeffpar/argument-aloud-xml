@@ -284,7 +284,10 @@
     <text>Petition for a writ of certiorari to the United States circuit court of appeals for the ninth circuit submitted by Mr. Edward Lyman Short, Mr. Julien T. Davies, Mr. John B. Allen and Mr. Frederic D. McKenney for the petitioners.</text>
   </case>
   <case number="241">Michael W. O'Brien et al., executors, etc., petitioners, v. John G. Wheelock et al.
-    <text>Motion to dispense with reprinting record submitted by Mr. Henry M. Duffield for the petitioners. Nos. 432, 433, 434 and 435. Grand Island and Wyoming Central Railroad Company et al., petitioners, v. Thomas Sweeney. Petitions for writs of certiorari to the United States circuit court of appeals for the eighth circuit submitted by Mr. N. K. Griggs and Mr. Charles F. Manderson for the petitioners, and by Mr. Charles W. Brown for the respondent.</text>
+    <text>Motion to dispense with reprinting record submitted by Mr. Henry M. Duffield for the petitioners.</text>
+  </case>
+  <case number="432,433,434,435">Grand Island and Wyoming Central Railroad Company et al., petitioners, v. Thomas Sweeney.
+    <text>Petitions for writs of certiorari to the United States circuit court of appeals for the eighth circuit submitted by Mr. N. K. Griggs and Mr. Charles F. Manderson for the petitioners, and by Mr. Charles W. Brown for the respondent.</text>
   </case>
 </date>
 <date value="1900-10-15" day="Monday, October 15, 1900" page="13">
@@ -380,7 +383,10 @@
     <text>Petition for a writ of certiorari to the United States circuit court of appeals for the ninth circuit granted.</text>
   </case>
   <case number="390">William B. Express Company et al. Dinsmore et al., petitioners, v. The Southern
-    <text>Petition for a writ of certiorari to the United States circuit court of appeals for the fifth circuit granted. Nos. 432, 433, 434 and 435. Grand Island and Wyoming Central Railroad Company et al., petitioners, v. Thomas Sweeney. Petition for writs of certiorari to the United States circuit court of appeals for the eighth circuit denied.</text>
+    <text>Petition for a writ of certiorari to the United States circuit court of appeals for the fifth circuit granted.</text>
+  </case>
+  <case number="432,433,434,435">Grand Island and Wyoming Central Railroad Company et al., petitioners, v. Thomas Sweeney.
+    <text>Petition for writs of certiorari to the United States circuit court of appeals for the eighth circuit denied.</text>
   </case>
   <case number="446">The Carborundum Company, petitioner, v. The Electric Smelting and Aluminum Company.
     <text>Petition for a writ of certiorari to the United States circuit court of appeals for the third circuit denied.</text>
@@ -1545,9 +1551,8 @@
   <case number="501">Henry W. Dooley et al., plaintiffs in error, v. The United States</case>
   <case number="502">Henry W. Dooley et al., plaintiffs in error, v. The United States</case>
   <case number="509">Carlos Armstrong, appellant, v. The United States.
-    <text>Argument continued by Mr. F. R. Coudert, jr., for the plaintiffs in error in</text>
+    <text>Argument continued by Mr. F. R. Coudert, jr., for the plaintiffs in error in Nos. 456 and 507, by Mr. Alphonso Hart for the appellant in No. 509, by Mr. Henry M. Ward for the plaintiffs in error in Nos. 501 and 502, and by Mr. Solicitor General Richards for the defendants in error and appellee. Adjourned until tomorrow at 12 o'clock. The day call for Thursday, January 10, will be as follows: Nos. 456 (and 507, 501, 502 and 509), 514, 515, 139, 45, 142, 143 and 144. ()</text>
   </case>
-  <case number="456,507">by Mr. Alphonso Hart for the appellant in No. 509, by Mr. Henry M. Ward for the plaintiffs in error in Nos. 501 and 502, and by Mr. Solicitor General Richards for the defendants in error and appellee. Adjourned until tomorrow at 12 o'clock. The day call for Thursday, January 10, will be as follows: Nos. 456 (and 507, 501, 502 and 509), 514, 515, 139, 45, 142, 143 and 144. ()</case>
 </date>
 <date value="1901-01-10" day="Thursday, January 10, 1901" page="86">
   <case number="507">Samuel B. Downes, etc., plaintiff in error, r. George R. Bidwell.
@@ -1735,7 +1740,7 @@
   <case number="391">John T. Pirie et al., etc., appellants, v. Chicago Title and Trust Company, trustee, etc.
     <text>Argument continued by Mr. Herman Frank for the appellee, and concluded by Mr. A. J. Pflaum for the appellants.</text>
   </case>
-  <case number="13,14-Orig">Ex parte: In the matter of the District of Columbia, petitioner.
+  <case number="13-Orig,14-Orig">Ex parte: In the matter of the District of Columbia, petitioner.
     <text>Argued by Mr. Robert A. Howard for the petitioner, with leave to Mr. A. A. Hoehling, jr., to file brief in behalf of certain interested parties within five days.</text>
   </case>
   <case number="278">Homer Bird, plaintiff in error, v. The United States.
@@ -1919,7 +1924,7 @@
   <case number="136">W. H. Ansley et al., appellants, v. N. B. Ainsworth et al.
     <text>Appeal from the United States court in the Indian Territory. Dismissed for the want of jurisdiction. Opinion by Mr. Chief Justice Fuller.</text>
   </case>
-  <case number="13,14-Orig">Ex parte: In the matter of the District of Columbia, petitioner. Rules discharged and
+  <case number="13-Orig,14-Orig">Ex parte: In the matter of the District of Columbia, petitioner. Rules discharged and
     <text>Petitions dismissed. Opinion by Mr. Chief Justice Fuller. The Chief Justice also announced the following orders of the court:</text>
   </case>
   <case number="520">W. P. H. McFaddin, etc., et al., plaintiffs in error, v. Evans-Snider-Buel Company. Submission set aside and case restored to the docket for oral argument</case>

@@ -136,7 +136,7 @@
   <case number="759">Fallbrook Irrigation District et al., appellants, r. Maria King Bradley and husband.
     <text>Motion to advance to be heard with No. 110 submitted by Mr. Harry Hubbard in behalf of counsel.</text>
   </case>
-  <case number="2--Orig">―The State of Indiana, complainant, r. The State of Kentucky.
+  <case number="2-Orig">―The State of Indiana, complainant, r. The State of Kentucky.
     <text>Motion for the appointment of commissioners herein submitted by Mr. William A. Ketcham for the complainant and by Mr. Richard H. Cunningham for the defendant.</text>
   </case>
   <case number="9">Harry C. McCarty et al., appellants, c. The Lehigh Valley Railroad Company.
@@ -488,12 +488,12 @@
   <case number="571">George L. Wheeler, plaintiff in error, c. The United States.
     <text>Submitted by Mr. Assistant Attorney General Whitney for the defendant in error. No counsel appeared for the plaintiff in error.</text>
   </case>
-  <case number="3">(original).—The United States, complainant, r. The State of Texas.
+  <case number="3-Orig">The United States, complainant, r. The State of Texas.
     <text>Argument continued by Mr. George Clark for the defendant, by Mr. Solicitor General Conrad for the complainant, and by Mr. M. M. Crane for the defendant. Adjourned until tomorrow, at 12 o'clock. The day call for Friday, October 25, will be as follows: Nos. 3 (original), 429, 196, 528 (and 529), 424, 547, 517, 493, 593, and 623.</text>
   </case>
 </date>
 <date value="1895-10-25" day="Friday, October 25, 1895" page="24">
-  <case number="3">(original).-The United States, complainant, r. The State of Texas.
+  <case number="3-Orig">The United States, complainant, r. The State of Texas.
     <text>Argument continued by Mr. M. M. Crane and Mr. A. H. Garland for the defendant, and concluded by Mr. Edgar Allan for the complainant.</text>
   </case>
   <case number="429">Santiago Ainsa, administrator, etc., et al., appellants, v. The United States. Leave to three counsel to be heard for the appellee in the argument of this case
@@ -1705,7 +1705,7 @@
   <case number="722">The Louisville and Nashville Railroad Company, plaintiff in error, v. The Commonwealth of Kentucky.
     <text>Motion for additional time in the argument of this case denied. Leave granted to the counsel for the plaintiff in error to make oral argument herein on motion of Mr. Helm Bruce for the plaintiff in error.</text>
   </case>
-  <case number="337-">The United States, plaintiff in error, v. Charles R. Allen.
+  <case number="337">The United States, plaintiff in error, v. Charles R. Allen.
     <text>Motion to advance submitted by Mr. L. E. Payson for the defendant in error.</text>
   </case>
 </date>
@@ -1809,7 +1809,7 @@
   <case number="627">The Missouri Pacific Railway Company, plaintiff in error, r. Mary Fitzgerald, administratrix, etc., et al.
     <text>In error to the supreme court of the State of Nebraska. Dismissed for the want of jurisdiction. Opinion by Mr. Chief Justice Fuller. The Chief Justice announced the following orders of the court :</text>
   </case>
-  <case number="337-">The United States, plaintiff in error, r. Charles R. Allen.
+  <case number="337">The United States, plaintiff in error, r. Charles R. Allen.
     <text>Motion to advance denied.</text>
   </case>
 </date>
@@ -2014,7 +2014,7 @@
   </case>
 </date>
 <date value="1896-01-21" day="Tuesday, January 21, 1896" page="108">
-  <case number="110-">William Tregea, plaintiff in error, v. The Board of Directors of the Modesto Irrigation District and</case>
+  <case number="110">William Tregea, plaintiff in error, v. The Board of Directors of the Modesto Irrigation District and</case>
   <case number="759">Fallbrook Irrigation District et al., appellants, v. Maria King Bradley et al. Ordered that Nos. 341 and 342 be substituted for these cases in the call of the assigned cases, by consent of counsel and
     <text>On motion of Mr. A. L. Rhodes for the defendant in error and appellants.</text>
   </case>
@@ -3916,7 +3916,7 @@
   <case number="727">The Wayne Lumber Company, plaintiff in error, v. Calvin F. Collins et al.
     <text>In error to the supreme court of the State of Missouri. Dismissed for the want of jurisdiction.</text>
   </case>
-  <case number="337-">The United States, plaintiff in error, v. Charles R. Allen</case>
+  <case number="337">The United States, plaintiff in error, v. Charles R. Allen</case>
   <case number="422">The United States et al., plaintiffs in error, r. J. Henry Perkins, county treasurer</case>
   <case number="828">The United States, plaintiff in error, r. Ashbel P. Fitch, comptroller, etc., et al.
     <text>Motions to advance granted, and cases will be taken on submission on printed briefs on or before Friday next.</text>
@@ -4124,7 +4124,7 @@
   <case number="828">The United States, plaintiff in error, r. Ashbel P. Fitch, comptroller, etc., et al.
     <text>Submitted by Mr. Solicitor General Conrad for the plaintiff in error, and by Mr. B. F. Dos Passos for the defendants in error.</text>
   </case>
-  <case number="337-">The United States, plaintiff in error, r. Charles R. Allen.
+  <case number="337">The United States, plaintiff in error, r. Charles R. Allen.
     <text>Submitted by Mr. Assistant Attorney General Whitney for the plaintiff in error, and by Mr. L. E. Payson and Mr. J. F. Evans for the defendant in error.</text>
   </case>
   <case number="311">The Patapsco Guano Company, appellant, r. The Board of Agriculture of North Carolina et al.
@@ -4247,9 +4247,8 @@
     <text>Motion for an order directing the clerk in issuing the mandate to omit any provision granting costs to the appellees on their motion to dismiss the appeal denied.</text>
   </case>
   <case number="468">Santiago Ainsa, administrator, etc., appellant, v. The United States.
-    <text>Motion to advance granted and cause assigned for argument with</text>
+    <text>Motion to advance granted and cause assigned for argument with Nos. 350 and 351 when they are reached for hearing on the docket.</text>
   </case>
-  <case number="350,351">when they are reached for hearing on the docket</case>
   <case number="350">Santiago Ainsa, administrator, etc., appellant, v. The New Mexico and Arizona Railroad Company</case>
   <case number="351">Santiago Ainsa, administrator, etc., appellant, v. The New Mexico and Arizona Railroad Company et al.
     <text>Motion to advance denied.</text>
@@ -4342,7 +4341,7 @@
   </case>
 </date>
 <date value="1896-05-25" day="Monday, May 25, 1896" page="223">
-  <case number="337-">The United States, plaintiff in error, v. Charles R. Allen.
+  <case number="337">The United States, plaintiff in error, v. Charles R. Allen.
     <text>On writ of certiorari to the United States circuit court of appeals for the ninth circuit. Judgments of the said United States circuit court of appeals and the district court of the United States for the northern district of California reversed, and cause remanded to said district court with directions to enter judgment in favor of the United States with costs. Opinion by Mr. Justice White. Dissenting: Mr. Justice Peckham.</text>
   </case>
   <case number="841">John H. Ward, sheriff, etc., appellant, v. Race Horse.

@@ -1350,7 +1350,10 @@
 </date>
 <date value="1890-05-02" day="Friday, May 2, 1890" page="69">
   <case number="328">John Broom et al., appellants, vs. James C. Armstrong.
-    <text>Continued by the court. Nos. 329, 780, 781, and 1234.-James Wallace Peake et al., appts., vs. The City of New Orleans et al. Continued by the court.</text>
+    <text>Continued by the court.</text>
+  </case>
+  <case number="329,780,781,1234">James Wallace Peake et al., appellants, vs. The City of New Orleans et al.
+    <text>Continued by the court.</text>
   </case>
   <case number="331">John Dobson et al., appellants, vs. James Lees et al.
     <text>Continued by the court.</text>
