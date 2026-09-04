@@ -13,6 +13,7 @@ exclude:
   - .github/
   - .history/
   - CLAUDE.md
+  - README.md
   - Gemfile
   - Gemfile.lock
   - config.json
